@@ -1,0 +1,5 @@
+php-analog (1.0.4-1) unstable; urgency=low
+
+  * Initial release (Closes: #7162)
+
+ -- François-Régis Vuillemin <frv-debian@miradou.com>  Mon, 03 Feb 2014 10:02:19 +0100
