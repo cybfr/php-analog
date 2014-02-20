@@ -93,19 +93,3 @@ release
     * [ zip ](/jbroadway/analog/archive/analog_0_8_0_beta.zip)
     * [ tar.gz ](/jbroadway/analog/archive/analog_0_8_0_beta.tar.gz)
 
-  * [Status](https://status.github.com/)
-  * [API](http://developer.github.com)
-  * [Training](http://training.github.com)
-  * [Shop](http://shop.github.com)
-  * [Blog](/blog)
-  * [About](/about)
-[ ](/)
-
-  * (C) 2014 GitHub, Inc.
-  * [Terms](/site/terms)
-  * [Privacy](/site/privacy)
-  * [Security](/security)
-  * [Contact](/contact)
-
-Something went wrong with that request. Please try again.
-
