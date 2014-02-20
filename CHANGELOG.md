@@ -8,9 +8,7 @@
 
 #  [Bug fixes](/jbroadway/analog/releases/tag/1.0.4-stable)
 
-![Johnny Broadway](https://1.gravatar.com/avatar/d7a5019264e9f64575fa5f0c955b1
-33c?d=https%3A%2F%2Fidenticons.github.com%2F27a2204eccce28480215e5e8c6d11be7.p
-ng&r=x&s=140) [jbroadway](/jbroadway) released this January 24, 2014 * [ 0
+![Johnny Broadway] [jbroadway](/jbroadway) released this January 24, 2014 * [ 0
 commits](/jbroadway/analog/compare/1.0.4-stable...master) to master since this
 release
 
