@@ -1,42 +1,4 @@
 [ ](https://github.com/)
-
-[Sign up](/join) [Sign in](/login?return_to=%2Fjbroadway%2Fanalog%2Freleases)
-
-  * [Explore](/explore)
-  * [Features](/features)
-  * [Enterprise](https://enterprise.github.com/)
-  * [Blog](/blog)
-
-This repository
-
-This repository
-
-All repositories
-
-  * [ Star ](/login?return_to=%2Fjbroadway%2Fanalog) [ 153 ](/jbroadway/analog/stargazers)
-  * [ Fork ](/login?return_to=%2Fjbroadway%2Fanalog) [ 13 ](/jbroadway/analog/network)
-
-#  public [jbroadway](/jbroadway) / **[analog](/jbroadway/analog)** ![Octocat-
-spinner-32](https://github.global.ssl.fastly.net/images/spinners/octocat-
-spinner-32.gif)
-
-  * [ Code ![Octocat-spinner-32](https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif) ](/jbroadway/analog)
-  * [ Issues 2 ![Octocat-spinner-32](https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif) ](/jbroadway/analog/issues)
-  * [ Pull Requests 0 ![Octocat-spinner-32](https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif) ](/jbroadway/analog/pulls)
-
-  * [ Pulse ![Octocat-spinner-32](https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif) ](/jbroadway/analog/pulse)
-  * [ Graphs ![Octocat-spinner-32](https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif) ](/jbroadway/analog/graphs)
-  * [ Network ![Octocat-spinner-32](https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif) ](/jbroadway/analog/network)
-
-### **HTTPS** clone URL
-
-### **Subversion** checkout URL
-
-You can clone with HTTPS, or Subversion.  [ ](https://help.github.com/articles
-/which-remote-url-should-i-use)
-
-[ Download ZIP ](/jbroadway/analog/archive/master.zip)
-
 ##  [Releases](/jbroadway/analog/releases) / [Tags](/jbroadway/analog/tags)
 
 [Latest release](/jbroadway/analog/releases/latest)
