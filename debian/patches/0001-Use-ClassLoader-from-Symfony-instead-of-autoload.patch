@@ -1,0 +1,31 @@
+Description: Use ClassLoader from Symfony instead of autoload
+ Work around the lack of proper autoload.php from composer by using the
+ ClassLoader element from Symfony.
+ .
+ http://symfony.com/doc/current/components/class_loader/class_loader.html
+Author: François-Régis Vuillemin <frv-debian@miradou.com>
+Forwarded: not-needed
+
+---
+This patch header follows DEP-3: http://dep.debian.net/deps/dep3/
+Index: php-analog/tests/bootstrap.php
+===================================================================
+--- php-analog.orig/tests/bootstrap.php	2014-02-13 18:46:26.495021080 +0100
++++ php-analog/tests/bootstrap.php	2014-02-13 19:20:47.985274396 +0100
+@@ -1,8 +1,11 @@
+ <?php
+ 
+-$filename = __DIR__ .'/../vendor/autoload.php';
+-if (!file_exists($filename)) {
+-    throw new Exception("You need to execute `composer install` before running the tests. (vendors are required for test execution)");
+-}
++require_once 'Symfony/Component/ClassLoader/ClassLoader.php';
++use Symfony\Component\ClassLoader\ClassLoader;
++$loader = new ClassLoader();
++$loader->setUseIncludePath(true);
++$loader->register();
++$loader->addPrefixes(array(
++        'Analog'        => __DIR__.'/../lib',
++));
+ 
+-require_once $filename;

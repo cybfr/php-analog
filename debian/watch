@@ -1,0 +1,4 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/analog-$1\.tar\.gz/ \
+  https://github.com/jbroadway/analog/tags .*/v?(\d\S*)-(?:stable|beta)\.tar\.(?:gz|bz2|xz)
+
