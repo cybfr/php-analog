@@ -8,7 +8,7 @@
 
 #  [Bug fixes](/jbroadway/analog/releases/tag/1.0.4-stable)
 
-![Johnny Broadway] [jbroadway](/jbroadway) released this January 24, 2014 * [ 0
+[jbroadway](/jbroadway) released this January 24, 2014 * [ 0
 commits](/jbroadway/analog/compare/1.0.4-stable...master) to master since this
 release
 
